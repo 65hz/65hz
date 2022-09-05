@@ -2,9 +2,9 @@
 I am some Non-binary loser from South England wanting to learn code, sadly too lazy to actually get into it. :frowning:
 
 ### About Me
-- :cat: I like Catppuccin a fucking lot.
-- 😄 I use They/Them and It/Its!
-- :clock: I play games fast but develop Lua scripts with barely anything in it very slowly.
+- 😸: I like Catppuccin a fucking lot.
+- 💜 I use They/Them and It/Its!
+- ⏱️ I play games fast but develop Lua scripts with barely anything in it very slowly.
 
 <!--
 **65hz/65hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
