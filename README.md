@@ -1,7 +1,7 @@
-### Hi there!
+# Hi there!
 ## I am some Non-binary loser from South England wanting to learn code, sadly too lazy to actually get into it. :frown:
 
-# About Me
+### About Me
 - :cat: I like Catppuccin a fucking lot.
 - 😄 I use They/Them and It/Its!
 - :clock: I play games fast but develop Lua scripts with barely anything in it very slowly.
