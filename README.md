@@ -2,7 +2,7 @@
 #### I am some Non-binary loser from South England wanting to learn code, sadly too lazy to actually get into it. :frowning:
 
 ### About Me
-- 🐱 I like Yoru a fucking lot.
+- :moon: I like Yoru a fucking lot.
 - 💜 I use They/Them and It/Its!
 - ⏱️ I play games fast but develop scripts with barely anything in it very slowly.
 - 💻 Learning Python and JavaScript, fuck C++!
