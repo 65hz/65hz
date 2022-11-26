@@ -1,12 +1,4 @@
-# Hi there!
-#### I am some Non-binary loser from South England wanting to learn code, sadly too lazy to actually get into it. :frowning:
-
-### About Me
-- :moon: I like Yoru a fucking lot.
-- 💜 I use They/Them and It/Its!
-- ⏱️ I play games fast but develop scripts with barely anything in it very slowly.
-- 💻 Learning Python and JavaScript, fuck C++!
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=BA96F7&center=true&width=435&lines=hey%2C+i+am+albin!" alt="Typing SVG" /></a>
 <!--
 **65hz/65hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
