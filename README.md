@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=BA96F7&center=true&vCenter=true&width=435&lines=hey%2C+i+am+albin!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=BA96F7&width=435&lines=hey%2C+i+am+albin;i+am+learning+python" alt="Typing SVG" /></a>
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <!--
 **65hz/65hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
